@@ -16,7 +16,7 @@ In order to better summarize our ride-share data, we create data frame based on 
 <img src="analysis/Ride_share_summaryDataFrame.png" width="850" height="180">
 
 #### Multiple-line Chart for City Types
-In addition, we use multiple-line chart to show the date from Jan to April 2019, which is related o the total cost of the fares in Rural, Suburban and Urban cities.
+In addition, we use multiple-line chart to show the date from Jan to April 2019, which is related o the total cost of the fares in Rural, Suburban and Urban cities. As the following table shows, it presents each week has a peak. Urban cities has the highest cost for Total ride-share, Rural cities has the lowest cost for Total ride-share.
 
 <img src="analysis/Fig8.png">
 
