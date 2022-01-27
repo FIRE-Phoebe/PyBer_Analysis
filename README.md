@@ -18,9 +18,9 @@ In order to better summarize our ride-share data, we create data frame based on 
 #### Multiple-line Chart for City Types
 In addition, we use multiple-line chart to show the date from Jan to April 2019, which is related o the total cost of the fares in Rural, Suburban and Urban cities. As the following table shows, it presents each week has a peak. Urban cities has the highest cost for Total ride-share, Rural cities has the lowest cost for Total ride-share.
 
-<img src="analysis/Fig8.png">
+
 
 
 ## Summary
 Based on the results, provide three business recommendations to CEO for addressing any disparities among the city type.
-there is a statement summarizing three business recommendations to the CEO for addressing any disparties among the coty types.
+there is a statement summarizing three business recommendations to the CEO for addressing any disparties among the city types.
